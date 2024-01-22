@@ -1,0 +1,10 @@
+#fruits
+apple
+orange
+watermelon
+
+kiwi
+
+banana
+
+strawberry
